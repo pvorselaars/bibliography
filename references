@@ -1,3 +1,17 @@
+%K principia
+%A Sir Isaac Newton
+%T The Principia
+%I Prometheus Books
+%C New York
+%D 1995
+
+%K noise
+%A John R. Pierce
+%T An Introduction to Information Theory: symbols, signals and noise
+%I Dover Publications, Inc.
+%C New York
+%D 1980
+
 %K geometry
 %A Dan Pedoe
 %T Geometry: a comprehensive course
@@ -43,3 +57,110 @@
 %T Dynamics
 %I John Wileys & Sons, Inc.
 %D 2008
+
+%K calculus
+%A Robert T. Smith
+%A Roland B. Minton
+%T Calculus: Early Transcendental Functions
+%I McGraw-Hill
+%D 2012
+
+%K multivariate data analysis
+%A Joseph F. Hair Jr.
+%A William C. Black
+%A Barry J. Babin
+%A Rolph E. Anderson
+%T Multivariate Data Analysis
+%I Pearson Education, Inc.
+%D 2014
+
+%K material science and engineering
+%A William D. Callister Jr.
+%A David G. Rethwisch
+%T Materials Science and Engineering
+%I John Wiley & Sons, Inc.
+%D 2011
+
+%K mechanics of solids
+%A Roger T. Fenner
+%T Mechanics of Solids
+%I CRC Press
+%D 1999
+
+%K strength of materials
+%A J.P. den Hartog
+%T Strength of Materials
+%I Dover Publications, Inc.
+%D 1961
+
+%K linear algebra
+%A Bernard Kolman
+%A David R. Hill
+%T Elementary Linear Algebra with applications
+%I Pearson Education, Inc.
+%D 2008
+
+%K business intelligence basics
+%A Anna Wilbik
+%A Uzay Kaymak
+%T Business Intelligence Basics
+%I Pearson Education Limited
+%D 2013
+
+%K unix handbook
+%A Evi Nemeth
+%A Garth Snyder
+%A Trent R. Hein
+%A Ben Whaley
+%T Unix and Linux System Administration Handbook
+%I Pearson Education, Inc.
+%D 2011
+
+%K windows server 2016
+%A Rand Morimoto
+%A Jeffrey Shapiro
+%A Guy Yardeni
+%A Omar Droubi
+%A Michael Noel
+%A Andrew Abbate
+%A Chris Amaris
+%T Windows Server 2016 Unleashed
+%I Pearson Education, Inc,
+%D 2017
+
+%K windows internals
+%A Pavel Yosifovich
+%A Alex Ionescu
+%A Mark E. Russinovich
+%A David A. Solomon
+%S Windows Internals
+%T System architecture, processes, threads, memory management, and more
+%V 1
+%I Microsoft Press
+%D 2017
+
+%K basic
+%A John G. Kemény
+%A Thomas E. Kurtz
+%T Dartmouth BASIC
+%I Dartmouth College
+%D 1964
+
+%K ttl
+%A Don Lancaster
+%T TTL Cookbook
+%I SAMS
+%D 1974
+
+%K c++
+%A Stephen Prata
+%T C++ Primer Plus
+%I Pearson Education, Inc,
+%D 2012
+
+%K mathfun
+%A Morris Kline
+%T Mathematics for the Nonmathematician
+%I Dover Publications, Inc.
+%C New York
+%D 1967
