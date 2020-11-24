@@ -131,7 +131,7 @@
 %A Andrew Abbate
 %A Chris Amaris
 %T Windows Server 2016 Unleashed
-%I Pearson Education, Inc,
+%I Pearson Education, Inc.
 %D 2017
 
 %K windows internals
@@ -210,3 +210,12 @@
 %I Irwin/McGraw-Hill
 %C New York
 %D 2001
+
+%K finance
+%A Richard A. Brealey
+%A Stewart C. Myers
+%A Franklin Allen
+%T Principles of Corporate Finance
+%I McGraw-Hill
+%C New York
+%D 2014
