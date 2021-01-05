@@ -306,3 +306,16 @@ $K enterprise ontology
 %A Cynthia Rudin
 %I Duke University
 %C Durham, North Carolina
+
+%K signal processing on tensors
+%A Jay S. Stanley III
+%I Yale University
+%C New Haven
+%A Eric C. Chi
+%I North Carolina State University
+%C Raleigh, North Carolina
+%A Gal Mishne
+%I UC San Diego
+%C La Jolla, California
+%T Multi-way Graph Signal Processing on Tensors: intergrative analysis of irregular geometries
+%D 2020
