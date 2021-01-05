@@ -277,6 +277,15 @@ $K enterprise ontology
 %C Hong Kong
 %D 2020
 
+%K DL for image recognition
+%A Kaiming He
+%A Xiangyu Zhang
+%A Shaoqing Ren
+%A Jian Sun
+%T Deep Residual Learning for Image Recognition
+%I Microsoft Research
+%D 2015
+
 %K signal processing framework
 %A Francesco Grassi
 %A Andreas Loukas
@@ -287,3 +296,5 @@ $K enterprise ontology
 %C Torino
 %I Ecole Polytechnique Fédérale de Lausanne
 %C Switzerland
+
+
