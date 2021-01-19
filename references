@@ -581,7 +581,7 @@ $K enterprise ontology
 %T A Qualitative Empirical Analysis of Human Post-Exploitation Behavior
 %A Daniel Schneider
 %A Daniel Fraunholz
-%A Daneil Krohmer
+%A Daniel Krohmer
 %I German Research Center for Artificial Intelligence
 %C Kaiserslautern
 %D 2021
@@ -609,3 +609,39 @@ $K enterprise ontology
 %I Utrecht University
 %C Utrecht
 %D 2021
+
+%K GPT-3 language models AI NLP
+%T Language Models are Few-Shot Learners
+%A Tom B. Brown
+%A Benjamin Mann
+%A Nick Ryder
+%A Melanie Subbiah
+%A Jared Kaplan
+%A Prafulla Dhariwal
+%A Arvind Neelakantan
+%A Pranav Shyam
+%A Girish Sastry
+%A Amanda Askell
+%A Sandhini Agarwal
+%A Ariel Herbert-Voss
+%A Gretchen Krueger
+%A Tom Henighan
+%A Rewon Child
+%A Aditya Ramesh
+%A Daniel M. Ziegler
+%A Jeffrey Wu
+%A Clemens Winter
+%A Christopher Hesse
+%A Mark Chen
+%A Eric Sigler
+%A Mateusz Litwin
+%A Scott Gray
+%A Benjamin Chess
+%A Jack Clark
+%A Crhistopher Berner
+%A Sam McCandlish
+%A Alec Radford
+%A Ilya Sutskever
+%A Dario Amodei
+%I OpenAI Inc.
+%D 2020
