@@ -653,3 +653,13 @@ $K enterprise ontology
 %I University of Delaware
 %C Newark, Delaware,
 %D 2020
+
+%K AMD assembly CPU architecture AMD64
+%T AMD64 Architecture Programmer's Manual: Volumes 1-5
+%I Advanced Micro Devices, Inc.
+%D 2020
+
+%K Intel assembly CPU architecture 64 IA-32
+%T Intel® 64 and IA-32 Architectures Software Developer's Manual
+%I Intel Corporation
+%D 2020
