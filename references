@@ -663,3 +663,9 @@ $K enterprise ontology
 %T Intel® 64 and IA-32 Architectures Software Developer's Manual
 %I Intel Corporation
 %D 2020
+
+%K assemblers loaders assembly
+%T Assemblers and Loaders
+%A David Salomon
+%D 1992
+%I Ellis Horwood
