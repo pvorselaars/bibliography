@@ -669,3 +669,63 @@ $K enterprise ontology
 %A David Salomon
 %D 1992
 %I Ellis Horwood
+
+%K .NET memory management garbage collection GC performance
+%A Konrad Kokosa
+%A Christophe Nasarre
+%A Kevin Gosse
+%T Pro .NET Memory Management: For Better Code, Performance, and Scalability
+%V 2
+%I Apress
+%D 2024
+%O https://prodotnetmemory.com/
+
+%K .NET runtime JIT performance blog
+%A Stephen Toub
+%T Performance Improvements in .NET
+%S Microsoft .NET Blog
+%I Microsoft
+%O https://devblogs.microsoft.com/dotnet/category/performance/
+
+%K .NET performance measurement GC JIT profiling
+%A Ben Watson
+%T Writing High-Performance .NET Code
+%V 2
+%D 2018
+%O https://www.writinghighperf.net/
+
+%K .NET benchmarking BenchmarkDotNet statistics measurement
+%A Andrey Akinshin
+%T Pro .NET Benchmarking
+%I Apress
+%D 2019
+%O https://www.apress.com/us/book/9781484249406
+
+%K systems performance methodology Linux operating systems observability
+%A Brendan Gregg
+%T Systems Performance
+%V 2
+%I Addison-Wesley
+%D 2020
+%O https://www.brendangregg.com/systems-performance-2nd-edition-book.html
+
+%K C# concurrency async parallel Channels dataflow
+%A Stephen Cleary
+%T Concurrency in C# Cookbook
+%V 2
+%I O'Reilly Media
+%D 2019
+%O https://stephencleary.com/book/
+
+%K browser networking HTTP TCP TLS web performance
+%A Ilya Grigorik
+%T High Performance Browser Networking
+%I O'Reilly Media
+%D 2013
+%O https://hpbn.co/
+
+%K V8 JavaScript engine garbage collection JIT TurboFan performance blog
+%A V8 Team
+%T V8 blog
+%I Google
+%O https://v8.dev/blog
